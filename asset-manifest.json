@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/teslabot/static/css/main.8a8a8f9c.css",
+    "main.js": "/teslabot/static/js/main.d9de30e9.js",
+    "static/js/787.e7ba2f1d.chunk.js": "/teslabot/static/js/787.e7ba2f1d.chunk.js",
+    "static/media/thunder.png": "/teslabot/static/media/thunder.b793961aeed69949b9c1.png",
+    "static/media/tesla.png": "/teslabot/static/media/tesla.cba6a2c8a495c05dfa33.png",
+    "static/media/pikachu.jpg": "/teslabot/static/media/pikachu.ed1d13941a29165f1a68.jpg",
+    "static/media/headset.png": "/teslabot/static/media/headset.b54d36fc745140500406.png",
+    "static/media/target.png": "/teslabot/static/media/target.0a0345d2202c63893714.png",
+    "static/media/squirtle.png": "/teslabot/static/media/squirtle.346b6244f1f173022384.png",
+    "static/media/up-arrow.png": "/teslabot/static/media/up-arrow.cbe7e02c2c21774a499d.png",
+    "static/media/download.png": "/teslabot/static/media/download.7901384bece453bd06e3.png",
+    "static/media/fast-delivery.png": "/teslabot/static/media/fast-delivery.4e45e2c8377d7259de5d.png",
+    "static/media/logo.png": "/teslabot/static/media/logo.ae0264eef558af9ca33a.png",
+    "static/media/charmender.jfif": "/teslabot/static/media/charmender.80095979c1a1f2c55d7f.jfif",
+    "static/media/balbasaur.jfif": "/teslabot/static/media/balbasaur.5590a1999712c9c2c304.jfif",
+    "static/media/Vector1.svg": "/teslabot/static/media/Vector1.8ed58003b0019cd86a61cce9310c558d.svg",
+    "static/media/Vector.svg": "/teslabot/static/media/Vector.8e8bb729c496e3243aeca5ed4359b200.svg",
+    "index.html": "/teslabot/index.html",
+    "static/media/wave.svg": "/teslabot/static/media/wave.46eceab26b7270aa2116571105d90d55.svg",
+    "main.8a8a8f9c.css.map": "/teslabot/static/css/main.8a8a8f9c.css.map",
+    "main.d9de30e9.js.map": "/teslabot/static/js/main.d9de30e9.js.map",
+    "787.e7ba2f1d.chunk.js.map": "/teslabot/static/js/787.e7ba2f1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a8a8f9c.css",
+    "static/js/main.d9de30e9.js"
+  ]
+}
